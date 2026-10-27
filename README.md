@@ -1,105 +1,95 @@
 # Rivals Recomp
 
-A fan-made PC port project for **Sonic Rivals 2**, bringing the PSP Sonic racing and platforming experience to PC.
+A fan-made PC port project bringing **Sonic Rivals 2** to PC.
 
-## 🎮 About the Project
+## 🎮 About
 
-**Sonic Rivals 2 PC Port** is a fan-made project aiming to bring *Sonic Rivals 2* to PC, making the game more accessible to players on modern computer systems.
+**Rivals Recomp** is a fan-made project focused on bringing *Sonic Rivals 2*, originally released for the PlayStation Portable (PSP), to PC.
 
-The goal is to provide a native PC experience while preserving the gameplay and spirit of the original game.
+The project's goal is to make the game accessible on PC while preserving the original experience and exploring improvements suited to modern hardware.
 
-> **Project status:** In development  
-> *(Update this status to reflect the current state of the project.)*
+> **Status:** In development
 
 ## ✨ Features
 
-Features currently implemented or planned:
-
-- 🖥️ Play *Sonic Rivals 2* on PC.
+- 🖥️ PC experience for *Sonic Rivals 2*.
 - 🎮 PC input and control support.
-- ⚙️ Improvements designed for PC hardware.
+- ⚙️ PC-focused improvements.
 - 🚀 Ongoing development and compatibility improvements.
 
-*Note: Replace or update this list to reflect the features actually implemented in your build.*
+*Features listed here should be updated to match the current build.*
 
 ## 📸 Screenshots & Gameplay
 
-Screenshots and gameplay footage will be added here as development progresses.
+Screenshots and gameplay footage will be added as development progresses.
 
-<!-- Add screenshots using:
-![Gameplay Screenshot](screenshots/gameplay.png)
+<!-- Add screenshots here:
+![Gameplay](screenshots/gameplay.png)
 -->
 
-You can also link a gameplay video here:
-
-- **Gameplay trailer:** Coming soon
-- **Development videos:** Coming soon
+- **Gameplay video:** Coming soon
 
 ## 📥 Installation
 
-Installation instructions will be provided here when the current build is ready for distribution.
+Installation instructions will be published when a build is ready.
 
 ### Requirements
 
-- A compatible Windows PC *(if Windows is your supported platform)*.
-- Any additional runtime dependencies required by the project.
-- A legally obtained copy of the original game, if required by the port.
+- A compatible PC running a supported operating system.
+- Any required runtime dependencies.
+- Original game data, if required by the port.
 
-### Steps
+### Getting Started
 
-1. Download or clone this repository.
-2. Follow the build or installation instructions provided in the project documentation.
-3. Supply any required original game files yourself.
-4. Launch the port according to the instructions for your build.
-
-*These steps are a template. Replace them with the actual installation process before publishing.*
+1. Download the appropriate release when available.
+2. Read the installation instructions for that release.
+3. Provide any required original game files, if applicable.
+4. Launch Rivals Recomp as documented.
 
 ## 🛠️ Building from Source
 
-Build instructions will be documented here as the project develops.
+Build instructions and development requirements will be documented here as the project progresses.
 
-For now, consult the source code and project configuration files for information about the required tools, dependencies, and build process.
+Check the repository's source code and configuration files for current build information.
 
 ## 🗺️ Roadmap
 
-Potential development goals:
-
-- [ ] Complete core gameplay implementation.
+- [ ] Develop and refine core gameplay functionality.
 - [ ] Improve PC controls and input handling.
-- [ ] Test compatibility across different PC configurations.
+- [ ] Test compatibility across different hardware configurations.
 - [ ] Improve performance and stability.
 - [ ] Document installation and troubleshooting.
-- [ ] Publish a playable public release.
+- [ ] Release a public playable build.
 
-*Update the checklist as milestones are completed.*
+*The roadmap is subject to change as development progresses.*
 
-## 🐛 Bug Reports & Contributions
+## 🐛 Bug Reports & Feedback
 
-Found a bug or want to contribute?
+Found a bug or have feedback?
 
-- Open an issue on GitHub to report a problem.
-- Include your operating system, hardware details, and steps to reproduce the issue.
-- Include relevant logs or screenshots when possible.
-- Check existing issues before creating a duplicate.
+- Open an issue in this repository.
+- Describe the problem and how to reproduce it.
+- Include your operating system and relevant logs or screenshots.
+- Check existing issues before submitting a new one.
 
-Contributions and constructive feedback are welcome!
+Constructive feedback from the Sonic community is welcome!
 
 ## ⚖️ Disclaimer
 
-This is an unofficial, fan-made project. It is not affiliated with, endorsed by, or sponsored by SEGA or Sonic Team.
+Rivals Recomp is an unofficial, fan-made project and is not affiliated with, endorsed by, or sponsored by SEGA or Sonic Team.
 
-*Sonic Rivals 2*, Sonic, and related characters, trademarks, and original game assets belong to their respective rights holders.
+*Sonic Rivals 2*, Sonic, and all associated trademarks and original game assets belong to their respective rights holders.
 
-This repository should contain only material that the project is authorized to distribute. Do not upload copyrighted game data or original game assets without permission. Users may need to provide their own legally obtained copy of the original game, depending on how the port works.
+This project should not distribute copyrighted game data or assets without authorization. Users may need to supply their own legally obtained copy of the original game, depending on the port's implementation.
 
 ## 📜 License
 
-The license for this project has not yet been specified.
+A license has not yet been specified.
 
-Any license added to this repository applies only to material the project author has the right to license. Third-party code, trademarks, and original game assets remain subject to their respective rights and permissions.
+Any license added to this repository should cover only materials the project author has the right to distribute or license. Third-party materials remain subject to their respective terms.
 
 ---
 
-**Made by a Sonic fan, for the Sonic community.** 💙
+**Rivals Recomp** 💙
 
-*More updates coming as development progresses!*
+*A fan project dedicated to bringing Sonic Rivals 2 to PC.*
