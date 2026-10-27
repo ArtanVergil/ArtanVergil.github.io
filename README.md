@@ -1,4 +1,4 @@
-# Sonic Rivals 2 PC Port
+# Rivals Recomp
 
 A fan-made PC port project for **Sonic Rivals 2**, bringing the PSP Sonic racing and platforming experience to PC.
 
